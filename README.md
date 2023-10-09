@@ -1,1 +1,3 @@
 # nextjs-blog
+
+# some information
